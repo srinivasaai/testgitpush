@@ -1,0 +1,2 @@
+class sky():
+    print('sri')
